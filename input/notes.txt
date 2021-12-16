@@ -1,0 +1,2 @@
+historical rent trend data is from https://www.dhhs.vic.gov.au/publications/rental-report
+the xlsx file found there has been adapted and saved as a csv called rental_prices.csv
