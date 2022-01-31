@@ -1,5 +1,5 @@
 # README
-This purpose of this was automate the process of checking how much a rental property's price had declined since its peak price prior to pandemic lockdowns.
+This project is about easily finding out how much a rental property's price had declined since its peak price prior to pandemic lockdowns.
 
 ## Get Started
 To run this project, open `crawler.ipynb` as a Jupyter Notebook, and run reach cell.
